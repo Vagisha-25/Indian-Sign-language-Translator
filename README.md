@@ -1,4 +1,4 @@
-# Real-Time Indian Sign Language Translator 🤟
+# Real-Time Indian Sign Language Translator 
 
 An AI-powered communication aid that recognizes Indian Sign Language gestures and converts them into text and speech.
 
